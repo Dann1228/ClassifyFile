@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassfyFile", "ClassfyFile\ClassfyFile.csproj", "{D596E2F5-4134-4E5C-8459-04D4AF9C643D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D596E2F5-4134-4E5C-8459-04D4AF9C643D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D596E2F5-4134-4E5C-8459-04D4AF9C643D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D596E2F5-4134-4E5C-8459-04D4AF9C643D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D596E2F5-4134-4E5C-8459-04D4AF9C643D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13824EB-0763-4D12-9ABE-8C48396E40A6}
+	EndGlobalSection
+EndGlobal
